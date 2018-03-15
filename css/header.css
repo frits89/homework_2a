@@ -1,0 +1,74 @@
+.app-wrapper{
+    background: url("../images/computer1.png") #334755;
+    color: white;
+    height: 650px;
+}
+
+.app-header{
+    display: block;
+    width: 1000px;
+    position: absolute;
+    left:15%;
+}
+.app-header a{
+    color: white;
+}
+
+.logo{
+    position: absolute;
+    top: 40px;
+
+}
+
+.menu{
+    position: absolute;
+    right: 0;
+    top: 80px;
+}
+
+
+.text1{
+    position: relative;
+    top:190px ;
+
+    font-family: Arial, serif;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    text-transform: uppercase;
+}
+.text2{
+    position: relative;
+    top:210px ;
+
+    font-family: Arial, serif;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    text-transform: uppercase;
+}
+
+.buttom{
+    position: relative;
+    top:250px ;
+
+    color: #00C06E;
+    border: 2px solid #00C06E;
+    text-transform: uppercase;
+    width: 140px;
+    height: 25px;
+    left: 45%;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+

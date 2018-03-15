@@ -1,0 +1,19 @@
+.caption_h2{
+	color:#00C06E;
+	text-transform:uppercase;
+}
+
+.contact_form{
+	text-align:center;
+}
+
+.votre_message{
+	resize: none;
+}
+
+.button{
+	width:445px;
+	text-transform:uppercase;
+	background-color:#00C06E;
+	color:white;
+}
