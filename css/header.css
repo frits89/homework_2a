@@ -27,42 +27,44 @@
 }
 
 
-.text1{
-    position: relative;
-    top:190px ;
-
-    font-family: Arial, serif;
-    font-size: 36px;
-    color: white;
-    text-align: center;
-    z-index: 1;
+.header-h1 {
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 35px;
     text-transform: uppercase;
-}
-.text2{
-    position: relative;
-    top:210px ;
-
-    font-family: Arial, serif;
-    font-size: 24px;
-    color: white;
-    text-align: center;
-    z-index: 1;
-    text-transform: uppercase;
+    color: #fff;
+    padding-top: 290px;
+    margin: 0;
 }
 
-.buttom{
-    position: relative;
-    top:250px ;
-
-    color: #00C06E;
-    border: 2px solid #00C06E;
+.header-h3 {
+    font-family: 'Myriad Pro', sans-serif;
+    font-size: 23px;
     text-transform: uppercase;
-    width: 140px;
-    height: 25px;
-    left: 45%;
-    text-align: center;
-
+    color: #fff;
+    padding-top: 32px;
+    margin: 0;
+    font-weight: normal;
 }
+
+.text-align-center {
+    text-align: center;
+}
+
+.header-button {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #48bf72;
+    padding: 12px 20px;
+    text-align: center;
+    border: 2px solid #48bf72;
+    border-radius: 3px;
+    background: inherit;
+    margin-top: 50px;
+}
+
+
 
 
 
